@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Kateryna-gr/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Kateryna-gr/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/Kateryna-gr/goit-react-hw-01-components/static/css/main.bab080fc.css",
+    "main.js": "/Kateryna-gr/goit-react-hw-01-components/static/js/main.33190174.js",
     "index.html": "/Kateryna-gr/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Kateryna-gr/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Kateryna-gr/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.bab080fc.css.map": "/Kateryna-gr/goit-react-hw-01-components/static/css/main.bab080fc.css.map",
+    "main.33190174.js.map": "/Kateryna-gr/goit-react-hw-01-components/static/js/main.33190174.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.bab080fc.css",
+    "static/js/main.33190174.js"
   ]
 }
