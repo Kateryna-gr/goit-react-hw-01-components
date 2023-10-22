@@ -11,7 +11,7 @@ export const Stats = ({ title, statsData }) => {
       {titleStat}
       <ul className={styles.statList}>
         {statsData.map(stat => (
-          <li className={styles.item} id={stat.id}>
+          <li className={styles.item} key={stat.id}>
             <span className={styles.label}>{stat.label}</span>
             <span className={styles.percentage}>{stat.percentage}%</span>
           </li>

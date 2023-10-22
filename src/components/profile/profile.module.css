@@ -32,6 +32,7 @@
   font-size: 18px;
   text-transform: lowercase;
 }
+
 .location {
   font-size: 18px;
   text-transform: capitalize;
@@ -43,10 +44,16 @@
 }
 
 .statsItem {
+  width: 90px;
   display: flex;
   flex-direction: column;
   margin: auto;
   align-items: center;
+}
+
+.statsItem:hover {
+  background-color: #d5d5d5;
+  cursor: pointer;
 }
 
 .label {

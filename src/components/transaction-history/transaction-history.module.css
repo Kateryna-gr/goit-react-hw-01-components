@@ -1,0 +1,45 @@
+.transactionHistory {
+  width: 600px;
+  margin: 60px auto;
+  padding: 20px;
+  border: 2px solid black;
+  background-color: #e3e3e3;
+  border-radius: 16px;
+  border-spacing: 0;
+}
+
+.tableHead {
+  height: 34px;
+  font-size: 22px;
+  background-color: #949494;
+}
+
+.tableRow {
+  height: 28px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.tableRowSecond {
+  height: 28px;
+  font-size: 16px;
+  text-align: center;
+  background-color: #d5d5d5;
+}
+
+.tableType {
+  text-transform: capitalize;
+  width: 240px;
+  padding: 0;
+}
+
+.tableAmount {
+  width: 158px;
+  padding: 0;
+}
+
+.tableCurrency {
+  text-transform: uppercase;
+  width: 158px;
+  padding: 0;
+}
